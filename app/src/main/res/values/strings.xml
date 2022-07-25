@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">networking-device-programming</string>
+    <string name="button">Find book</string>
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="book_title_second">Book title:</string>
+    <string name="book_cat_second">Book category:</string>
+    <string name="book_author_second">Book author:</string>
+    <string name="book_price_second">Book price:</string>
+    <string name="book_price_first">Book price:</string>
+    <string name="book_title_first">Book Title:</string>
+    <string name="book_author_first">Book author:</string>
+    <string name="book_cat_first">Book category:</string>
+    <string name="similar_books">Similar books</string>
+    <string name="first_book">First book</string>
+    <string name="second_book">Second book</string>
+    <string name="book_details">Book details</string>
+    <string name="book_price">Book price:</string>
+    <string name="book_title">Book title:</string>
+    <string name="book_author">Book author:</string>
+    <string name="book_category">Book category:</string>
+    <string name="failed_to_find_this_book">Failed to find this book</string>
+    <string name="todo">TODO</string>
+</resources>
